@@ -1,1 +1,1 @@
-# VahdetLol
+# VahdetLol botunun github sayfasıdır
